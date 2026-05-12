@@ -1,0 +1,10 @@
+[project]
+name = "math-learning-journey"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "gmpy2>=2.3.0",
+    "pwntools>=4.15.0",
+    "pycryptodome>=3.23.0",
+]
